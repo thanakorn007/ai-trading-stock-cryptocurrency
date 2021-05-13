@@ -1,5 +1,5 @@
 # ARTIFICIAL INTELLIGENCE FOR TRADING CRYPTOCURRENCY AND STOCK ![image](https://user-images.githubusercontent.com/62415232/118112065-b4281680-b40e-11eb-982b-c593e1b8d1fa.png)
-
+Website this project http://35.198.239.112/peem/home.php
 
 # Background and importance of the problem
 Nowadays, more and more people are interested in investing. Because there is any investment Investors often want a return on that investment in the form of profits. In order to get more assets from investment We can see from the rich people who are ranked at the top of the world rankings. From investment
@@ -21,4 +21,4 @@ Subsequently, the data analysis was carried out with a neural network. It is an 
 The adoption of artificial intelligence as a tool to aid investment for investors has become a popular investment method in modern times. Apply data science knowledge to analyze and allow models to manage themselves how they should be invested. Where investors do not have to monitor their performance all the time This thesis presents the invention of artificial intelligence by using the fundamentals of investment as the basis for making investment decisions. Because the management of investment portfolios is risky because the factors of stock price information on a daily basis are constantly fluctuating and cannot predict the industry trend of that stock. Under this idea, this artificial intelligence model that buys and sells stocks each time has to receive a satisfactory return on investment, with the performance of that model compared to the return. Of that stock market The return on investment that the model receives from its performance is better. Therefore, it fits the basic concept of the model that wants to work at its most cost-effective. In order to receive a satisfactory return to investors
 
 
-Website this project http://35.198.239.112/peem/home.php
+
