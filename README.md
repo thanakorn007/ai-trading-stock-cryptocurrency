@@ -14,4 +14,4 @@ Subsequently, the data analysis was carried out with a neural network. It is an 
 # Scope of the project
 1.Design a model that uses the power of artificial intelligence to help make stock trading decisions.
 2.Increase the functionality of the model by incorporating the neural network system into the model.
-3. Compare the model's stock trading returns with benchmarks and relevant measurement theories as well as website impressions
+3. Compare the model's stock trading returns with benchmarks and relevant measurement theories as well as website impressions.
