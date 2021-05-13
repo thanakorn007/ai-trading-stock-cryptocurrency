@@ -11,7 +11,7 @@ Subsequently, the data analysis was carried out with a neural network. It is an 
 2. To facilitate investors in helping them make investment decisions of artificial intelligence.
 3. To give this thesis a guide to investing in the stock market.
 
-# Scope of the thesis
+# Scope of the project
 1.Design a model that uses the power of artificial intelligence to help make stock trading decisions.
 2.Increase the functionality of the model by incorporating the neural network system into the model.
 3. Compare the model's stock trading returns with benchmarks and relevant measurement theories as well as website impressions
