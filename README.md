@@ -21,6 +21,7 @@ Subsequently, the data analysis was carried out with a neural network. It is an 
 The adoption of artificial intelligence as a tool to aid investment for investors has become a popular investment method in modern times. Apply data science knowledge to analyze and allow models to manage themselves how they should be invested. Where investors do not have to monitor their performance all the time This thesis presents the invention of artificial intelligence by using the fundamentals of investment as the basis for making investment decisions. Because the management of investment portfolios is risky because the factors of stock price information on a daily basis are constantly fluctuating and cannot predict the industry trend of that stock. Under this idea, this artificial intelligence model that buys and sells stocks each time has to receive a satisfactory return on investment, with the performance of that model compared to the return. Of that stock market The return on investment that the model receives from its performance is better. Therefore, it fits the basic concept of the model that wants to work at its most cost-effective. In order to receive a satisfactory return to investors
 
 ![image](https://user-images.githubusercontent.com/62415232/118128770-8e5a3c00-b425-11eb-9c62-bbc9d65883c3.png)
+![image](https://user-images.githubusercontent.com/62415232/118128861-a8941a00-b425-11eb-9447-4689f5ce502d.png)
 
 
 ![image](https://user-images.githubusercontent.com/62415232/118128512-328fb300-b425-11eb-9307-e18b95afe769.png)
