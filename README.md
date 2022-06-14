@@ -1,5 +1,5 @@
 # ARTIFICIAL INTELLIGENCE FOR TRADING CRYPTOCURRENCY AND STOCK ![image](https://user-images.githubusercontent.com/62415232/118112065-b4281680-b40e-11eb-982b-c593e1b8d1fa.png)
-Website this project http://35.198.239.112/peem/home.php
+
 
 # Background and importance of the problem
 Nowadays, more and more people are interested in investing. Because there is any investment Investors often want a return on that investment in the form of profits. In order to get more assets from investment We can see from the rich people who are ranked at the top of the world rankings. From investment
